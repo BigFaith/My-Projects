@@ -12,9 +12,10 @@ Large language model that is trained to help users generate secure passwords. Al
 began work on a basic LORA module to improve llm novelty before time constraints prevented completeion of it.
 
 ### Mario Evolved
-**Repository:** https://github.com/ncoffey42/MarioEvolved  
-Project based on testing how effectevly evolutionary algorithms can play/ beat levels of Mario. Was responsible for reasearch as well as assisting in the development of the neuroevolutionary approach.
+**Repository:** https://github.com/ncoffey42/MarioEvolved
 **Report:** https://github.com/BigFaith/My-Projects/blob/main/Clark_Coffey_Odoi_CS_420_Final_Project%20(3).pdf
+Project based on testing how effectevly evolutionary algorithms can play/ beat levels of Mario. Was responsible for reasearch as well as assisting in the development of the neuroevolutionary approach.
+
 
 ### COSC469 Project
 **Repository:** https://github.com/gabelapham/cosc469-project  
@@ -25,6 +26,9 @@ the website as well as developed a basic phising dector inorder to simulate phis
 **Repository:** https://github.com/utk-cs340-fall23/FragranceFinder  
 Worked on websrapers and sql structure for the back end of a online webapplication in colaboration with a group.
 
+### Work Request and Tracking System for Thomas Jefferson National Accelerator Facility
+**Report:** https://github.com/BigFaith/My-Projects/blob/main/Faithful%20Odoi%20Summer2024%20Intern%20Final%20Deliverable%20-%20signed%20(1).pdf
+Worked on a weld request and tracking system for the electron beam team during a summmer internship at Thomas Jefferson Nuclear Accelerator Facility. Leverage java, html, css, sql, and coldfusion inorder to build the system
 
 ## Personal & Coursework Projects
 
