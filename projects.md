@@ -14,6 +14,7 @@ began work on a basic LORA module to improve llm novelty before time constraints
 ### Mario Evolved
 **Repository:** https://github.com/ncoffey42/MarioEvolved  
 Project based on testing how effectevly evolutionary algorithms can play/ beat levels of Mario. Was responsible for reasearch as well as assisting in the development of the neuroevolutionary approach.
+**Report:** https://github.com/BigFaith/My-Projects/blob/main/Clark_Coffey_Odoi_CS_420_Final_Project%20(3).pdf
 
 ### COSC469 Project
 **Repository:** https://github.com/gabelapham/cosc469-project  
