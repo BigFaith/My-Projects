@@ -32,8 +32,6 @@ Worked on a weld request and tracking system for the electron beam team during a
 
 ## Personal & Coursework Projects
 
-### Possible Project
-https://github.com/BigFaith/possibleproject
 
 ### CVY221 Coursework
 - MP5 — https://github.com/BigFaith/cvy221MP5  
