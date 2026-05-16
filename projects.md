@@ -46,10 +46,4 @@ Worked on a weld request and tracking system for the electron beam team during a
 Network security course work assignement based on improving secuity of a webserver.
 
 
-### Students Projects
-- https://github.com/BigFaith/students  
-- https://github.com/BigFaith/-students  
-
-### Proj1
-https://github.com/BigFaith/Proj1
 
