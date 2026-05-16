@@ -34,7 +34,7 @@ Worked on a weld request handling and tracking system for the electron beam team
 **Repository:** https://github.com/ncoffey42/thinking-out-loud
 
 **Report:** https://github.com/BigFaith/My-Projects/blob/main/ThinkingOutLoud.pdf
-Project based the interaction of a buyer and seller LLM agenet and seeing the effects that adding a monitor agent has on the negotiation tactics of the seller agent.
+project based on building a scenario for to llm agents to negotiate on the price of a car being sold with one agent acting as a buyer and another acting as a seller. Observed whether the seller agent would use deception, what factors contributed to deception, and whether the addition of a monitor agent that alerted buyer to deception would help the buyer in negotiations despite being a weaker model.
 
 ## Personal & Coursework Projects
 
