@@ -32,6 +32,7 @@ Worked on a weld request handling and tracking system for the electron beam team
 
 ### Thinking Out Loud
 **Repository:** https://github.com/ncoffey42/thinking-out-loud
+
 **Report:** https://github.com/BigFaith/My-Projects/blob/main/ThinkingOutLoud.pdf
 Project based the interaction of a buyer and seller LLM agenet and seeing the effects that adding a monitor agent has on the negotiation tactics of the seller agent.
 
