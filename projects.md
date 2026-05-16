@@ -28,7 +28,7 @@ Worked on websrapers and sql structure for the back end of a online webapplicati
 
 ### Work Request and Tracking System for Thomas Jefferson National Accelerator Facility
 **Report:** https://github.com/BigFaith/My-Projects/blob/main/Faithful%20Odoi%20Summer2024%20Intern%20Final%20Deliverable%20-%20signed%20(1).pdf
-Worked on a weld request and tracking system for the electron beam team during a summmer internship at Thomas Jefferson Nuclear Accelerator Facility. Leverage java, html, css, sql, and coldfusion inorder to build the system
+Worked on a weld request handling and tracking system for the electron beam team during a summmer internship at Thomas Jefferson Nuclear Accelerator Facility. Leverages java, html, css, sql, and coldfusion. 
 
 ## Personal & Coursework Projects
 
