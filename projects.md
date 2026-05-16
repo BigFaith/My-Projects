@@ -38,9 +38,8 @@ Worked on a weld request handling and tracking system for the electron beam team
 - MP4 — https://github.com/BigFaith/cvy221MP4  
 - MP3 — https://github.com/BigFaith/cvy221MP3  
 - MP32 — https://github.com/BigFaith/cvy221mp32  
-- Mini Project 1 — https://github.com/BigFaith/cvy221MiniProject1  
-- Course Repository — https://github.com/BigFaith/cvy221  
-
+- Mini Project 1 — https://github.com/BigFaith/cvy221MiniProject1
+  
 ### UDP Echo V2 Enhancement
 **Repository:** https://github.com/bbelandr/UDPEchoV2-Enhancement  
 Network security course work assignement based on improving secuity of a webserver.
